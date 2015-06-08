@@ -1,1 +1,6 @@
-# Recovery for android_device_hisense_x1
+# CM-11.0 Recovery  
+
+# Device
+
+# hisense x1
+
